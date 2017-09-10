@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Welt
+comment1.params=
+comment1.target=Welt()
+comment2.params=
+comment2.target=void\ besetzteWelt()
+comment3.params=n\ j
+comment3.target=void\ info(int,\ int)
+numComments=4
